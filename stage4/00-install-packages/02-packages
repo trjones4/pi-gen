@@ -1,0 +1,9 @@
+wx3.0-headers
+libwxgtk3.0-dev
+libsdl-dev 
+libncurses5-dev
+liballegro4-dev
+xterm
+python-pip
+python-pil
+
