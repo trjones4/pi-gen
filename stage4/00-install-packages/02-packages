@@ -6,4 +6,10 @@ liballegro4-dev
 xterm
 python-pip
 python-pil
+python3-tk
+imagemagick
+python-imaging
+python-imaging-tk
+python3-psutil xterm
+
 
