@@ -1,0 +1,5 @@
+# touch screen calibration file
+May need to calibrate each screen after building a new unit to get best performance
+
+# pidskY2.py - REMOVE AS SOON AS FIXED IN MAIN REPO
+This file is a patched version of the March 10 virtualagc code base that fixes incorrect GIF file names. These changes were made by Troy Jones and are NOT yet in the main soure tree. 
