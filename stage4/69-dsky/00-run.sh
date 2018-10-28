@@ -9,6 +9,7 @@ git -C "${ROOTFS_DIR}/home/pi" clone https://github.com/virtualagc/virtualagc.gi
 # now checkout the March 10 commit - rollsback the repo to this date
 # https://github.com/virtualagc/virtualagc/commit/4abd659b9bc2fb062a6cb1da3798071d8d75d962
 
+cd "${ROOTFS_DIR}/home/pi/virtualagc"
 git checkout 4abd659
 
 # make all files owned by pi user
